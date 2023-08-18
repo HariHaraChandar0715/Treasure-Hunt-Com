@@ -1,0 +1,5 @@
+mysql-connector-python==8.0.33
+flask
+numpy
+pandas
+scikit-learn 
